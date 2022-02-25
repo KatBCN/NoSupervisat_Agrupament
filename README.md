@@ -1,6 +1,9 @@
 # NoSupervisat_Agrupament
 Sprint 11 - Clustering
 
+Due to difficulties running the clustering algorithms on my own computer, I did these exercises with a mix of Jupyter notebooks running locally to scale the data and run a PCA. Then I imported the data created from those notebooks into a hosted runtime in Google Colab notebooks to peform clustering analysis on both the scaled data and the PCA data.
+
+
 Practice and become familiar with clustering algorithms.
 
 Level 1
